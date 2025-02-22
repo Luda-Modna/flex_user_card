@@ -19,7 +19,6 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  margin: 10px;
 }
 
 .user-card {
@@ -35,6 +34,7 @@ body {
   box-shadow: 0 0 10px grey;
   overflow: hidden;
   text-align: center;
+  margin: 10px;
 }
 
 .container-user-info {
